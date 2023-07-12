@@ -1,0 +1,28 @@
+Java web-app의 설정파일명(마크업언어로 작성됨)과 위치
+
+Servlet?
+Servlet Container?
+
+web.xml 파일이 Servlet Container에 의해 로드되는 시점은? 
+
+war?
+
+Http 응답 중 Redirect 응답이란?
+redirect 응답으로 페이지 이동이 일어나는 과정?
+
+웹브라우저 캐시?
+
+Web Server Session?
+
+log? logging? logger?
+
+---
+
+단계별 퀴즈 프로그램. 총 3단계.
+정답을 맞추었을 때만 다음 단계로 넘어갑니다.
+모든 단계를 통과하면 '통과' 결과 페이지로 응답하기.
+
+피자 선택 페이지 --제출시--> 계산된 피자 가격 페이지
+피자 종류 선택
+토핑 선택(옵션)
+수량
